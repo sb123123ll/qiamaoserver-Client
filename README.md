@@ -1,2 +1,3 @@
-# qiamaoserver-Client
-A Minecraft Server‘s Client
+# qiamao服务器的的专用客户端
+服务器q群：973937570
+
